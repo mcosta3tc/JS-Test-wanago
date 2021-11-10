@@ -1,5 +1,5 @@
 {
-  "name": "JS-Test-wanago",
+  "name": "js-test-wanago",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/mcosta3tc/JS-Test-wanago.git",
@@ -7,5 +7,11 @@
   "license": "MIT",
   "devDependencies": {
     "jest": "^27.3.1"
+  },
+  "jest": {
+  "testRegex": "(/__tests__/.*|(\\.|/)(test|spec))\\.jsx?$"
+},
+  "scripts": {
+    "test": "jest"
   }
 }
