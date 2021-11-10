@@ -1,0 +1,11 @@
+{
+  "name": "JS-Test-wanago",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mcosta3tc/JS-Test-wanago.git",
+  "author": "Miguel Costa <m_costa3@etu-webschoolfactory.fr>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
